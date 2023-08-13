@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkepic_awesome_gamer_docs=self.webpackChunkepic_awesome_gamer_docs||[]).push([[2668],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

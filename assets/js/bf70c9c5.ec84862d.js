@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkepic_awesome_gamer_docs=self.webpackChunkepic_awesome_gamer_docs||[]).push([[4384],{767:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/epic-awesome-gamer-docs/blog/tags/hola","allTagsPath":"/epic-awesome-gamer-docs/blog/tags","count":1}')}}]);

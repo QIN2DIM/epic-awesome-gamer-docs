@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkepic_awesome_gamer_docs=self.webpackChunkepic_awesome_gamer_docs||[]).push([[3751],{7043:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/epic-awesome-gamer-docs/blog/tags/docusaurus","allTagsPath":"/epic-awesome-gamer-docs/blog/tags","count":4}')}}]);
